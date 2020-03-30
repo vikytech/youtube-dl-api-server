@@ -15,8 +15,8 @@ handlers:
   upload: robots.txt
 
 - url: /.*
-  static_files: index.html
-  upload: index.html
+  static_files: index.php
+  upload: index.php
 
 libraries:
 - name: ssl
