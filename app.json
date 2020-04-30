@@ -1,6 +1,6 @@
 {
   "name": "Youtube-dl-server",
-  "description": "A local api to grab videos of youtube. This deploy button was added by Andrewstech for easy setup of the alexa youtube skill V3",
+  "description": "A local api to grab videos of youtube. This deploy button was added by VikyTech for easy setup of the alexa youtube skill V3",
   "repository": "https://github.com/vikytech/youtube-dl-api-server",
   "logo": "https://pngimg.com/uploads/youtube/youtube_PNG21.png",
   "keywords": ["youtube-dl", "php-dl", "hummmmm"]
